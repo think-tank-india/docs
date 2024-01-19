@@ -8,12 +8,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#BD93F9",
+    "light": "#6272A4",
+    "dark": "#282A36",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#BD93F9",
+      "to": "#6272A4"
     }
   },
   "topbarLinks": [
@@ -28,8 +28,8 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "API",
+      "url": "api"
     }
   ],
   "anchors": [
